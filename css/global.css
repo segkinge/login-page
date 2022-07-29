@@ -1,0 +1,10 @@
+.bg{
+    background: url(../css/MSFT_BUILD_2022_Slate_Title_PT_noBlur.png) no-repeat; 
+    width: 100%; 
+    height: 1000vh;
+}
+.form-container{
+    border: 1px solid #fff;
+    padding: 50px 60px;
+    margin-top: 20vh;
+}
